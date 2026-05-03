@@ -1,0 +1,1 @@
+SELECT * FROM read_parquet('C:/Storage/Projects/tennis-pipeline/data/silver/*/*.parquet') AS matches
